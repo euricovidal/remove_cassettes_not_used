@@ -1,4 +1,4 @@
-remove_cassettes_not_used
+Remove Cassettes Not Used
 =========================
 
-Remove VCR Cassettes not used
+Only Ruby <= 1.8.7
